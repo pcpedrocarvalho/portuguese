@@ -163,41 +163,17 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="KuriakosKids.pt@SD" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2024/11/KuriakosKids_curvas-removebg-preview.png",Kuriakos Kids (1080p)
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="BenficaTV.pt@SD" tvg-logo="https://e7.pngegg.com/pngimages/1022/829/png-clipart-s-l-benfica-portugal-benfica-tv-television-channel-benfica-television-text.png",Benfica TV (720p)
+http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/BenficaHD.stream/chunklist b2628000.m3u8
 
-http://pt-stream.fubotv.com.a.prod. fastly.net:80/Benfica-TV/BenficaHD.stream 720
-p/chunklist b2628000.m3u8
-
-FEXTINF:0, PREMIUM PORTUGAL: BENFICA TV
-http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/BenficaHD.stream/chu
-nklist b2628000.m3u8
-
-FEXTINF:0, PREMIUM PORTUGAL: BENFICA TV
-
-http://pt-stream.fubotv.com.a.prod. fastly.net:80/Benfica-TV/BenficaHD.stream sou
-rce/chunklist, b2628000.m3u8
-
-FEXTINF:0, PREMIUM PORTUGAL: BENFICA TV
-
-http://pt-stream.fubotv.com.a.prod. fastly.net:80/Benfica-TV/ngrp:BenficaHD.strea
-m all/chunklist, b2628000.m3u8
-
-FEXTINF:0, PREMIUM PORTUGAL: BENFICA TV 2
-http://31.204.128.112:8081/live/portugal3/playlist .m3u8
-
-FEXTINF:0, PREMIUM PORTUGAL: BENFICA TV 2
+#EXTINF:-1 group-title="TV" tvg-id="BenficaTV.pt@SD" tvg-logo="https://e7.pngegg.com/pngimages/1022/829/png-clipart-s-l-benfica-portugal-benfica-tv-television-channel-benfica-television-text.png",Benfica TV 2 (720p)
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 
-FEXTINF:0, PREMIUM PORTUGAL: SPORT TV 1
+#EXTINF:-1 group-title="TV" tvg-id="SporTV1.pt@SD" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png",SporTV 1 (720p)
 http://31.204.128.112:8081/live/portugall/playlist.m3u8
 
-FEXTINF:0, PREMIUM PORTUGAL: IURD TV
-http://xiurdtveux.api.channel.livestream.com/3.0/playlist.m3u8
-
-FEXTINF:0, PREMIUM PORTUGAL: SPORT TV 3
-http://31.204.128.127:8081/live/portugal3/playlist.m3u8
-
-FEXTINF:0, PREMIUM PORTUGAL: SPORT TV 3
+#EXTINF:-1 group-title="TV" tvg-id="SporTV2.pt@SD" tvg-logo="https://images.seeklogo.com/logo-png/50/2/sport-tv2-2023-logo-png_seeklogo-504105.png",SporTV 2 (720p)
 http://31.204.128.127:8081/live/portugal2/playlist.m3u8
 
-FEXTINF:0, PREMIUM PORTUGAL: SPORT TV 1
+#EXTINF:-1 group-title="TV" tvg-id="SporTV1.pt@SD" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png",SporTV 1 a (720p)
 http://31.204.128.127:8081/live/portugall/playlist.m3u8
