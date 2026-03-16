@@ -166,9 +166,6 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SportingTV.pt" tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b4/Sporting_TV.png/960px-Sporting_TV.png?_=20190616102721",Sporting TV
 https://streaming-live.rtp.pt/liverepeater/sportingtv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="BenficaTV.pt@SD" tvg-logo="https://e7.pngegg.com/pngimages/1022/829/png-clipart-s-l-benfica-portugal-benfica-tv-television-channel-benfica-television-text.png",Benfica TV 2 (720p)
-http://31.204.128.112:8081/live/portugal2/playlist.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="SporTV1.pt@SD" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png",SporTV 1 (720p)
 http://31.204.128.112:8081/live/portugall/playlist.m3u8
 
@@ -177,3 +174,6 @@ http://31.204.128.127:8081/live/portugal2/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="SporTV1.pt@SD" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png",SporTV 1 a (720p)
 http://31.204.128.127:8081/live/portugall/playlist.m3u8
+
+#EXTINF:-1 group-title="Extra",Pluto TV Movies
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f515a62078d2ec0ad2/master.m3u8
