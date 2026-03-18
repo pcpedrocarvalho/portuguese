@@ -147,3 +147,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Motorvision.de" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Motorvision-TV.png",Motorvision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="1HDMusicTelevision.ru" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/1HD.png",1HD Music
+#https://sc.id-tv.kz/1hd.m3u8
