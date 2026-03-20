@@ -84,7 +84,7 @@ https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
-https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDI2IDE6MjY6NDUgUE0maGFzaF92YWx1ZT1lenBoWC9JY1lLbklsejl2ZTBtbFJnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTU2N2Q2YjMtMjdiYi00MzU3LThlNmEtYWEzYmIyMzUwYmQ0
+https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI2IDY6NTg6MzUgUE0maGFzaF92YWx1ZT1welZiTDZaeDFWNVNtUmVLSnNkb3hBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NWM4NjVkYmYtMmJlMi00MGE3LWE1ZjYtYjMwMWRlMTM3NTRj
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
 #https://github.com/LITUATUI/M3UPT/raw/refs/heads/main/M3U/TVI_Internacional.m3u
