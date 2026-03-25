@@ -20,8 +20,8 @@ https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://sic.pt/
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=1972967,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2"
-https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI2IDY6MjU6NDUgUE0maGFzaF92YWx1ZT0waUNFRjlVNlJCSDFrVHdVdmphQkFRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NDdhZjQwM2MtZmZlYy00NmI1LTkyYjctM2Y0ZTBjZmM2ZTk3
+#EXTINF:-1 group-title="TV" tvg-id="TVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI2IDk6MTY6OSBQTSZoYXNoX3ZhbHVlPVZOMS9pRWRjWUkwbjUxZytIOGJLWGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01Mzg4OTJiZi02NDdlLTRkM2MtYmYxZS1mOTg2YThkYTJkODg=/
 
 #EXTINF:-1 group-title="TV" tvg-id="RTPNoticias.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/rtpnoticias.png",RTP Notícias
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
@@ -35,8 +35,9 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://sicnoticias.pt/
 https://sicnot.live.impresa.pt/sicnot.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=1393632,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://video-auth6.iol.pt/edge_servers/cnn-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI2IDY6MjU6NDYgUE0maGFzaF92YWx1ZT1KcWNTL3poVmtaejZtS3FGc1lnM1RRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGFlNjg1N2QtYmNjZS00MzE5LTllMWYtNTIxOGJlNzQwOTAz
+#EXTINF:-1 group-title="TV" tvg-id="CNNPortugal.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI2IDk6MTY6MTAgUE0maGFzaF92YWx1ZT1IbEVWTkwzSm9PUnNLZlM1UWRDR3h3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzU2OWQzNzYtNDg1ZC00ZTQ0LTk1NzItYWU2ZDM1MDYxOTRk/
 
 #EXTINF:-1 group-title="TV" group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/euronews-logo-225x225.png",Euronews PT
 #https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
@@ -79,8 +80,8 @@ https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtpinternacional
 https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=2225412,RESOLUTION=1280x720,CODECS="avc1.640029,mp4a.40.2"
-https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI2IDY6MjU6NDYgUE0maGFzaF92YWx1ZT1nNXFBK04yWWJHRndnNzh2ekljZ3BRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTg5NDM3MjktY2FjZS00NzU5LTk4YzgtNjViYTJkNzIxYzQw
+#EXTINF:-1 group-title="TV" tvg-id="TVIInternacional.pt" tvg-logo="https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",TVI Internacional
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDI2IDk6MTY6MTAgUE0maGFzaF92YWx1ZT16amxyZHVtTCtZQmF0R3RrZk15dnNBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGI2NzBlMGMtZmIxNi00ZTJkLWJhZTEtNjc0NDZiYjg4Y2Qz/
 
 #EXTINF:-1 group-title="TV" tvg-id="VPlusTVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/vmaistvi.png",V+ TVI
 https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
@@ -123,6 +124,9 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="KuriakosKids.pt@SD" tvg-logo="https://kuriakos-kids.com/wp-content/uploads/2024/11/KuriakosKids_curvas-removebg-preview.png",Kuriakos Kids (1080p)
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="SporTV1@SD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",SporTv1
+http://45.93.9.150/sportv/tracks-v1a1/mono.m3u8
 
 https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tlc.m3u8
 
