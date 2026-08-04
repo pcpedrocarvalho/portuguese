@@ -122,3 +122,30 @@ http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="AXN@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",AXN (576p)
 http://znty.dyndns.org:5010/hls/axn.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="AXNBlack@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",AXN Black (576p)
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Sportv1@SD" tvg-logo="https://i.imgur.com/YWic36u.png",SportTV1 (576p)
+http://znty.dyndns.org:5010/hls/stv1.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Sportv2@SD" tvg-logo="https://i.imgur.com/0jSR6yG.png",SportTV2 (576p)
+http://znty.dyndns.org:5010/hls/stv2.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Sportv+@SD" tvg-logo="https://i.imgur.com/R5FZEW6.png",SportTV+ (576p)
+http://znty.dyndns.org:5010/hls/sportv+.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="FOX@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR CHANEL (576p)
+http://znty.dyndns.org:5010/hls/fox.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="FOXCOMEDY@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/960px-Star_Comedy_2024.svg.png",STAR COMEDY (576p)
+http://znty.dyndns.org:5010/hls/foxcomedy.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="FOXCRIME@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png",STAR CRIME (576p)
+http://znty.dyndns.org:5010/hls/foxcrime.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="FOXLIFE@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png",STAR LIFE (576p)
+http://znty.dyndns.org:5010/hls/foxlife.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="FOXMOVIES@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png",STAR MOVIES (576p)
+http://znty.dyndns.org:5010/hls/foxm.m3u8
+
