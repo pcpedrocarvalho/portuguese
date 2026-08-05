@@ -122,9 +122,6 @@ http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="AXNBlack@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/250px-AXN_White_logo_%282015%29.svg.png",AXN White
 http://50.7.120.34:8080/AXN_WHITE/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Canal11@SD" tvg-logo="https://i.imgur.com/mbQCGm5.png",Canal 11
-http://50.7.120.34:8080/CANAL11/index.m3u8
-
 #EXTINF:-1 group-title="TV" tvg-id="CanalPanda@SD" tvg-logo="https://i.imgur.com/6OP31oP.png",Canal Panda
 http://50.7.120.34:8080/PANDA/index.m3u8
 
@@ -151,9 +148,6 @@ http://znty.dyndns.org:5010/hls/stv7.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Sportv+@SD" tvg-logo="https://i.imgur.com/R5FZEW6.png",SportTV+
 http://znty.dyndns.org:5010/hls/sportv+.m3u8
-
-#EXTINF:-1 group-title="TV" tvg-id="CMTV@SD" tvg-logo="https://i.imgur.com/QFLqg8y.png",CMTV
-http://50.7.120.34:8080/CMTV/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="FOX@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR CHANEL
 http://znty.dyndns.org:5010/hls/fox.m3u8
