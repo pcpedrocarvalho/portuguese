@@ -147,7 +147,7 @@ http://znty.dyndns.org:5010/hls/stv7.m3u8
 http://znty.dyndns.org:5010/hls/sportv+.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="CMTV@SD" tvg-logo="https://i.imgur.com/QFLqg8y.png",CMTV (576p)
-http://znty.dyndns.org:5010/hls/cmtv.m3u8
+http://50.7.120.34:8080/CMTV/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="FOX@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR CHANEL (576p)
 http://znty.dyndns.org:5010/hls/fox.m3u8
