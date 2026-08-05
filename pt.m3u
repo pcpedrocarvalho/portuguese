@@ -110,57 +110,63 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:-1 group-title="TV" tvg-id="TVCancaoNova.pt" tvg-logo="https://tv.cancaonova.pt/wp-content/uploads/2016/01/logo_cn_radio.png",Canção Nova
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel (576p)
+#EXTINF:-1 group-title="TV" tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="AXN@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN (576p)
+#EXTINF:-1 group-title="TV" tvg-id="AXN@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN
 http://znty.dyndns.org:5010/hls/axn.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="AXNBlack@SD" tvg-logo="https://i.imgur.com/tJQckal.png",AXN Black (576p)
+#EXTINF:-1 group-title="TV" tvg-id="AXNBlack@SD" tvg-logo="https://i.imgur.com/tJQckal.png",AXN Black
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="AXNBlack@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/250px-AXN_White_logo_%282015%29.svg.png",AXN White (576p)
+#EXTINF:-1 group-title="TV" tvg-id="AXNBlack@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/250px-AXN_White_logo_%282015%29.svg.png",AXN White
 http://50.7.120.34:8080/AXN_WHITE/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Sportv1@SD" tvg-logo="https://i.imgur.com/YWic36u.png",SportTV1 (576p)
+#EXTINF:-1 group-title="TV" tvg-id="Canal11@SD" tvg-logo="https://i.imgur.com/mbQCGm5.png",Canal 11
+http://50.7.120.34:8080/CANAL11/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="CanalPanda@SD" tvg-logo="https://i.imgur.com/6OP31oP.png",Canal Panda
+http://50.7.120.34:8080/PANDA/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Sportv1@SD" tvg-logo="https://i.imgur.com/YWic36u.png",SportTV1
 http://znty.dyndns.org:5010/hls/stv1.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Sportv2@SD" tvg-logo="https://i.imgur.com/0jSR6yG.png",SportTV2 (576p)
+#EXTINF:-1 group-title="TV" tvg-id="Sportv2@SD" tvg-logo="https://i.imgur.com/0jSR6yG.png",SportTV2
 http://znty.dyndns.org:5010/hls/stv2.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Sportv3@SD" tvg-logo="https://i.imgur.com/6Dw3GUx.png",SportTV3 (576p)
+#EXTINF:-1 group-title="TV" tvg-id="Sportv3@SD" tvg-logo="https://i.imgur.com/6Dw3GUx.png",SportTV3
 http://znty.dyndns.org:5010/hls/stv3.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Sportv4@SD" tvg-logo="https://i.imgur.com/mJlbVfW.png",SportTV4 (576p)
+#EXTINF:-1 group-title="TV" tvg-id="Sportv4@SD" tvg-logo="https://i.imgur.com/mJlbVfW.png",SportTV4
 http://znty.dyndns.org:5010/hls/stv4.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Sportv5@SD" tvg-logo="https://i.imgur.com/4w4vuad.png",SportTV5 (576p)
+#EXTINF:-1 group-title="TV" tvg-id="Sportv5@SD" tvg-logo="https://i.imgur.com/4w4vuad.png",SportTV5
 http://znty.dyndns.org:5010/hls/stv5.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Sportv6@SD" tvg-logo="https://i.imgur.com/qmlQkyI.png",SportTV6 (576p)
+#EXTINF:-1 group-title="TV" tvg-id="Sportv6@SD" tvg-logo="https://i.imgur.com/qmlQkyI.png",SportTV6
 http://znty.dyndns.org:5010/hls/stv6.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Sportv7@SD" tvg-logo="https://i.imgur.com/2HmCAm5.png",SportTV7 (576p)
+#EXTINF:-1 group-title="TV" tvg-id="Sportv7@SD" tvg-logo="https://i.imgur.com/2HmCAm5.png",SportTV7
 http://znty.dyndns.org:5010/hls/stv7.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="Sportv+@SD" tvg-logo="https://i.imgur.com/R5FZEW6.png",SportTV+ (576p)
+#EXTINF:-1 group-title="TV" tvg-id="Sportv+@SD" tvg-logo="https://i.imgur.com/R5FZEW6.png",SportTV+
 http://znty.dyndns.org:5010/hls/sportv+.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="CMTV@SD" tvg-logo="https://i.imgur.com/QFLqg8y.png",CMTV (576p)
+#EXTINF:-1 group-title="TV" tvg-id="CMTV@SD" tvg-logo="https://i.imgur.com/QFLqg8y.png",CMTV
 http://50.7.120.34:8080/CMTV/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="FOX@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR CHANEL (576p)
+#EXTINF:-1 group-title="TV" tvg-id="FOX@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR CHANEL
 http://znty.dyndns.org:5010/hls/fox.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="FOXCOMEDY@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/960px-Star_Comedy_2024.svg.png",STAR COMEDY (576p)
+#EXTINF:-1 group-title="TV" tvg-id="FOXCOMEDY@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/960px-Star_Comedy_2024.svg.png",STAR COMEDY
 http://znty.dyndns.org:5010/hls/foxcomedy.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="FOXCRIME@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png",STAR CRIME (576p)
+#EXTINF:-1 group-title="TV" tvg-id="FOXCRIME@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png",STAR CRIME
 http://znty.dyndns.org:5010/hls/foxcrime.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="FOXLIFE@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png",STAR LIFE (576p)
+#EXTINF:-1 group-title="TV" tvg-id="FOXLIFE@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png",STAR LIFE
 http://znty.dyndns.org:5010/hls/foxlife.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="FOXMOVIES@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png",STAR MOVIES (576p)
+#EXTINF:-1 group-title="TV" tvg-id="FOXMOVIES@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png",STAR MOVIES
 http://znty.dyndns.org:5010/hls/foxm.m3u8
 
