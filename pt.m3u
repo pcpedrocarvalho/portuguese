@@ -119,7 +119,7 @@ http://znty.dyndns.org:5010/hls/axn.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="AXNBlack@SD" tvg-logo="https://i.imgur.com/tJQckal.png",AXN Black (576p)
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="AXNBlack@SD" tvg-logo="https://i.imgur.com/tJQckal.png",AXN White (576p)
+#EXTINF:-1 group-title="TV" tvg-id="AXNBlack@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/250px-AXN_White_logo_%282015%29.svg.png",AXN White (576p)
 http://50.7.120.34:8080/AXN_WHITE/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Sportv1@SD" tvg-logo="https://i.imgur.com/YWic36u.png",SportTV1 (576p)
