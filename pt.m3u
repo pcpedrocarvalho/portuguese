@@ -84,7 +84,7 @@ https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="VPlusTVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/vmaistvi.png",V+ TVI
-https://github.com/LITUATUI/M3UPT/raw/main/M3U/Vmais_TVI.m3u8
+https://video-auth7.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC82LzIwMjYgNTo0OjU3IEFNJmhhc2hfdmFsdWU9U0I0elE0STh6V3d6Y3B0allDam9Kdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTE0ODQ3YjhhLWY2MDYtNDAxNC1iYmViLWJkMGJiMzlhZDYzZQ==
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIFiccao.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Ficcao.m3u8
@@ -111,7 +111,8 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel
-http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+http://zntx.dyndns.org:8085/hls/disney.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="AXN@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN
 http://znty.dyndns.org:5010/hls/axn.m3u8
