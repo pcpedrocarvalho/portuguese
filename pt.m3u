@@ -110,9 +110,11 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 #EXTINF:-1 group-title="TV" tvg-id="TVCancaoNova.pt" tvg-logo="https://tv.cancaonova.pt/wp-content/uploads/2016/01/logo_cn_radio.png",Canção Nova
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel
+#EXTINF:-1 group-title="TV" tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel HD
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
-#http://zntx.dyndns.org:8085/hls/disney.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",Disney Channel
+http://zntx.dyndns.org:8085/hls/disney.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="AXN@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN
 http://znty.dyndns.org:5010/hls/axn.m3u8
@@ -145,7 +147,7 @@ http://znty.dyndns.org:5010/hls/stv5.m3u8
 http://znty.dyndns.org:5010/hls/stv6.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Sportv7@SD" tvg-logo="https://i.imgur.com/2HmCAm5.png",SportTV7
-http://znty.dyndns.org:5010/hls/stv7.m3u8
+#http://znty.dyndns.org:5010/hls/stv7.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Sportv+@SD" tvg-logo="https://i.imgur.com/R5FZEW6.png",SportTV+
 http://znty.dyndns.org:5010/hls/sportv+.m3u8
