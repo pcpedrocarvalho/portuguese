@@ -64,7 +64,7 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Internacional.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="VPlusTVI.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/vmaistvi.png",V+ TVI
 #EXTVLCOPT:http-origin=https://iol.pt
 #EXTVLCOPT:http-referrer=https://iol.pt/
-https://video-auth7.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDI2IDEyOjE4OjggUE0maGFzaF92YWx1ZT1jNXd4QzJMclp0bjhGYjk4UmtuUGRRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDQzYmFjNzktOWU1ZC00YWJlLWJjMzQtZDI3NWNmNzEzZWU3
+https://video-auth7.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDI2IDQ6MTk6MTYgUE0maGFza
 
 #EXTINF:-1 group-title="TV" tvg-id="TVIFiccao.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/TVI_Ficcao.m3u8
