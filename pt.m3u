@@ -97,7 +97,7 @@ http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 http://zntx.dyndns.org:8085/hls/disney.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="AXN@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN
-http://znty.dyndns.org:5010/hls/axn.m3u8
+http://50.7.120.34:8080/AXN/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="AXNMovies@SD" tvg-logo="https://i.imgur.com/tJQckal.png",AXN Movies
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
@@ -118,17 +118,17 @@ http://znty.dyndns.org:5010/hls/stv2.m3u8
 http://znty.dyndns.org:5010/hls/sportv+.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="FOX@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",STAR CHANEL
-http://znty.dyndns.org:5010/hls/fox.m3u8
+http://50.7.120.34:8080/FOX/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="FOXCOMEDY@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Comedy_2024.svg/960px-Star_Comedy_2024.svg.png",STAR COMEDY
-http://znty.dyndns.org:5010/hls/foxcomedy.m3u8
+http://50.7.120.34:8080/FOX_COMEDY/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="FOXCRIME@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png",STAR CRIME
-http://znty.dyndns.org:5010/hls/foxcrime.m3u8
+http://50.7.120.34:8080/FOX_CRIME/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="FOXLIFE@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png",STAR LIFE
-http://znty.dyndns.org:5010/hls/foxlife.m3u8
+http://50.7.120.34:8080/FOX_LIFE/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="FOXMOVIES@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png",STAR MOVIES
-http://znty.dyndns.org:5010/hls/foxm.m3u8
+http://50.7.120.34:8080/FOX_MOVIES/index.m3u8
 
